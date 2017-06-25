@@ -13,3 +13,9 @@
 [Pythontutor](http://pythontutor.ru/profile/oauth-facebook-1774221022833671/)
 
 [Html Academy](https://htmlacademy.ru/profile/id82189)
+
+[stackshare](https://stackshare.io/andriyor/my-stack)
+
+[CodeFights](https://codefights.com/profile/andriyor)
+
+[DATAQUEST](https://www.dataquest.io/profile/andriyorehov)
