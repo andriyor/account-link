@@ -19,3 +19,5 @@
 [CodeFights](https://codefights.com/profile/andriyor)
 
 [DATAQUEST](https://www.dataquest.io/profile/andriyorehov)
+
+[HackerOne](https://hackerone.com/oreh)
